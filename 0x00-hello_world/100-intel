@@ -1,2 +1,2 @@
 #!/bin/bash
-masm=intel $CFILE
+.masm=intel $CFILE
